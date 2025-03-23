@@ -1,3 +1,7 @@
+#the idea is store the generate keys here and the steps to create a better password 
+
+
+
 #------------functios in string-----------------
 
 string.ascii_letters: All lowercase and uppercase letters ('abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ').
