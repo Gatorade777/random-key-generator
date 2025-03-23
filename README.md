@@ -8,3 +8,6 @@ Keep in mind:
     I know I have a lot of grammar mistakes because I'm not a native English speaker. I'm learning programming and using this repository as part of that journey.
 
     If you have any suggestions or resources to help me complete this project, I would really appreciate it!
+Here's how the code works when you run it:
+![image](https://github.com/user-attachments/assets/176c9381-2eb8-4416-abdd-4fb3868f99a7)
+
