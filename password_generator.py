@@ -6,8 +6,22 @@
 
 import random as rm #for random characters
 import string as st #for all the characters in the paswword
-#def the function to generate the random password
 
+
+def create():
+    pass #dont work yet
+    #while True:
+        #response = input("you want create a new login? (y/n)").lower() == "y"
+        #if response:
+            #return False
+        #else:
+            #return 
+
+    
+
+
+
+#def the function to generate the random password
 def random_key_generator(length,numbers,upper,special):
     characters = st.ascii_lowercase #the password by default has lower cases
     if upper:
@@ -28,6 +42,8 @@ def random_key_generator(length,numbers,upper,special):
 def main():
     attempts = 0
     attempts2 = 0
+    if not create:
+        return
     #bucle for attemps in the length
     while True:
         
@@ -64,9 +80,9 @@ def main():
         print(f"Here is your ultra professional secret password: {password}")
     
         
-            
+create()          
 main()
-    
+
 
 
 

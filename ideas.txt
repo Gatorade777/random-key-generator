@@ -1,0 +1,8 @@
+use random words in other lenguajes
+usable by users without security knowledge and easy access to the manager
+For memorable passwords, use AI.
+multiple device setup
+store logs in encrypted files
+add new log
+delete log
+Add and improve questions to make password creation easier
