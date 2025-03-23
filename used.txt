@@ -1,5 +1,11 @@
 #the idea is store the generate keys here and the steps to create a better password 
 
+enter(in number) the length of the password that you want: 16
+you want use numbers in the password? (y/n)y
+you want use upper cases in the password? (y/n)y
+you want to use special characters for you password? (y/n)y
+Here is your ultra professional secret password: W!A_%\e]o10.@$g8
+
 
 
 #------------functios in string-----------------
