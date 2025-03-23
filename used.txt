@@ -1,0 +1,42 @@
+#------------functios in string-----------------
+
+string.ascii_letters: All lowercase and uppercase letters ('abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ').
+
+string.ascii_lowercase: All lowercase letters ('abcdefghijklmnopqrstuvwxyz').
+
+string.ascii_uppercase: All uppercase letters ('ABCDEFGHIJKLMNOPQRSTUVWXYZ').
+
+string.digits: All decimal digits ('0123456789').
+
+string.hexdigits: All hexadecimal digits ('0123456789abcdefABCDEF').
+
+string.octdigits: All octal digits ('01234567').
+
+string.punctuation: All printable punctuation characters (e.g., !"#$%&'()*+,-./:;<=>?@[\]^_{|}~`).
+
+string.printable: All printable characters (digits, letters, punctuation, and whitespace).
+
+string.whitespace: All whitespace characters (e.g., ' \t\n\r\x0b\x0c').
+
+#--------------functions in random-------------------------
+    random.random(): Returns a random float between 0.0 and 1.0.
+
+    random.randint(a, b): Returns a random integer between a and b (both inclusive).
+
+    random.uniform(a, b): Returns a random float between a and b.
+
+Choosing Random Elements
+
+    random.choice(sequence): Returns a random element from a non-empty sequence (like a list or string).
+
+    random.choices(sequence, k=n): Returns a list of n random elements from the sequence, with replacement.
+
+    random.sample(sequence, k=n): Returns a list of n unique random elements from the sequence, without replacement.
+
+Shuffling Data
+
+    random.shuffle(sequence): Shuffles the sequence in place. (Works with lists, but not with strings or tuples).
+
+Seeding (Reproducibility)
+
+    random.seed(x): Initializes the random number generator to produce repeatable results.
